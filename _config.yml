@@ -43,6 +43,7 @@ minima:
 header_pages:
 - about.md
 - syllabus.html
+- profile.html
 
 # Build settings
 theme: minima
