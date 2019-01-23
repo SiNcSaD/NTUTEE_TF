@@ -2,9 +2,7 @@ title: TensorFlow with Deep Learning
 author: 李偉弘
 email: generation0987740903@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  人工智慧正以現在進行式，廣泛應用於大眾日常生活，改善人類生產力，影響我們文明價值。人工智慧領域中，最核心的技術就是深度學習，它是從機器學習的基本概念，延伸到深度神經網路的原理和應用技術，具自動地萃取特徵的功能，是當今科技界最熱門的研究項目。
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -43,7 +41,7 @@ minima:
 header_pages:
 - about.md
 - syllabus.html
-- profile.html
+- TA.html
 
 # Build settings
 theme: minima
