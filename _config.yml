@@ -1,4 +1,4 @@
-title: TensorFlow with Deep Learning
+title: 深度學習TensorFlow實務
 author: 李偉弘
 email: generation0987740903@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
@@ -13,16 +13,16 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    # twitter: jekyllrb
+    github:  SiNcSaD
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: jekyll
+    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    youtube: jekyll
+    # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll

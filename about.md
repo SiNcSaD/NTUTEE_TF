@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+人工智慧正以現在進行式，廣泛應用於大眾日常生活，改善人類生產力，影響我們文明價值。人工智慧領域中，最核心的技術就是深度學習，它是從機器學習的基本概念，延伸到深度神經網路的原理和應用技術，具自動地萃取特徵的功能，是當今科技界最熱門的研究項目。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### 時間與地點
++ Friday 9:10-12:00
++ 綜合科館 414
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### 團隊 Team
++ 教授：[張陽郎](https://myweb.ntut.edu.tw/~ylchang/)
++ 講師：XXX
++ 講師：XXX
++ 助教
+  - [李偉弘](https://sincsad.github.io/about.html)
+  - 廖宜健
+  - [林佑昌](https://github.com/YochLin)
+  - 蔡明諺
+  - 彭冠偉
 
+### 評量標準
++ 課堂實驗 (70%)
++ 研讀報告 (10%)
++ 期末考 (20%)
 
-[jekyll-organization]: https://github.com/jekyll
+### 參考書籍
++ 白話深度學習與TensorFlow，高揚，碁峰，ISBN：9789864767946
