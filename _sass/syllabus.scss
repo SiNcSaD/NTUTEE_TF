@@ -52,7 +52,7 @@
 }
  
 .syllabus-tr:hover td {
-  background:rgba(255, 251, 0, 0.781);
+  background:rgba(255, 251, 0, 0.5);
   color:rgb(0, 0, 0);
   border-top: 1px solid #22262e;
 }
@@ -70,7 +70,7 @@
 }
  
 .syllabus-tr:nth-child(odd):hover td {
-  background:rgba(255, 251, 0, 0.781);
+  background:rgba(255, 251, 0, 0.5);
 }
 
 .syllabus-tr:last-child .syllabus-td:first-child {
