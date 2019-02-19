@@ -11,13 +11,13 @@ permalink: /about/
 + 綜合科館 414
 
 ### 團隊 Team
-+ 教授：[張陽郎](https://myweb.ntut.edu.tw/~ylchang/)
++ 教授：[張陽郎](https://myweb.ntut.edu.tw/~ylchang/){:target="_blank"}
 + 講師：XXX
 + 講師：XXX
 + 助教
-  - [李偉弘](https://sincsad.github.io/about.html)
+  - [李偉弘](https://sincsad.github.io/about.html){:target="_blank"}
   - 廖宜健
-  - [林佑昌](https://github.com/YochLin)
+  - [林佑昌](https://github.com/YochLin){:target="_blank"}
   - 蔡明諺
   - 彭冠偉
 
