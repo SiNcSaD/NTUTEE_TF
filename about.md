@@ -18,7 +18,7 @@ permalink: /about/
   - [李偉弘](https://sincsad.github.io/about.html){:target="_blank"}
   - 廖宜健
   - [林佑昌](https://github.com/YochLin){:target="_blank"}
-  - 蔡明諺
+  - [蔡明諺](https://github.com/03053020ITE){:target="_blank"}
   - 彭冠偉
 
 ### 評量標準
